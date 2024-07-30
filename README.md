@@ -1,8 +1,8 @@
 # Jacob Murphy 
 
-**`Current Position: Support Technician`**
-**`Studying: Bachelor of Information Technology - Griffith University`**
-**`Major: Software Development`**
+**`Current Position: Support Technician`** <br />
+**`Studying: Bachelor of Information Technology - Griffith University`** <br />
+**`Major: Software Development`** <br />
 
 
 <!--### About Me
