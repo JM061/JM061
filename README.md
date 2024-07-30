@@ -1,6 +1,9 @@
 # Jacob Murphy 
 
 **`Current Position: Support Technician`**
+**`Studying: Bachelor of Information Technology - Griffith University`**
+**`Major: Software Development`**
+
 
 <!--### About Me
 I am currently studying a Bachelor of Information Technology at Griffith University in my third year. My major is in Software Development, I am passionite in this field as I love making things for myself while still learning all different methods.
