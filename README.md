@@ -1,7 +1,8 @@
 # Jacob Murphy 
 
 **`Current Position: Software Engineer & Information Security Manager`** <br />
-**` SDSI `**
+
+**` SDSI `** <br />
 
 
 **`Bachelor of Information Technology`** <br />
